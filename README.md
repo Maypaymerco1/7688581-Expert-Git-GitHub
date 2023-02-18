@@ -16,6 +16,12 @@ A définir
 
 ```
 
+1. 113420709 resilier 
+2. 106193114
+
+Reclamation : 6012704227
+suivi.technique@mail.totalenergies.fr
+
 ### Installation
 
 Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
